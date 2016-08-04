@@ -1,0 +1,65 @@
+_repo: Castle-Rackrent_1424
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Ritchie, Anne Thackeray
+    aliases:
+    - Thackeray, Anne Isabella
+    - Ritchie, Anne Isabella Thackeray, Lady
+    - Thackeray, Miss
+    birthdate: 1837
+    deathdate: 1919
+    gutenberg_agent_id: '34609'
+    url: http://www.gutenberg.org/2009/agents/34609
+    wikipedia: http://en.wikipedia.org/wiki/Anne_Isabella_Thackeray_Ritchie
+creator:
+  author:
+    agent_name: Edgeworth, Maria
+    alias: Edgeworth, Eliza
+    birthdate: 1767
+    deathdate: 1849
+    gutenberg_agent_id: '630'
+    url: http://www.gutenberg.org/2009/agents/630
+    wikipedia: http://en.wikipedia.org/wiki/Maria_Edgeworth
+description: "Castle Rackrent, a short novel by Maria Edgeworth published in 1800,\
+  \ is often regarded as the first historical novel, the first regional novel in English,\
+  \ the first Anglo-Irish novel, the first Big House novel and the first saga novel.\n\
+  It is also widely regarded as the first novel to use the device of a narrator who\
+  \ is both unreliable and an observer of, rather than a player in, the actions he\
+  \ chronicles. Kirkpatrick suggests that it \"both borrows from and originates a\
+  \ variety of literary genres and subgenres without neatly fitting into any one of\
+  \ them\". William Butler Yeats pronounced Castle Rackrent \"one of the most inspired\
+  \ chronicles written in English\".\nShortly before its publication, an introduction,\
+  \ glossary and footnotes, written in the voice of an English narrator, were added\
+  \ to the original text to blunt the negative impact the Edgeworths feared the book\
+  \ might have on English enthusiasm for the Act of Union 1800.\nThe novel is one\
+  \ of the few of Edgeworth's novels which her father did not 'edit'.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_issued: '2006-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1424'
+  wikidata: Q5050238
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Domestic fiction'
+- !lcc 'PR'
+- !lcsh 'Pastoral fiction'
+- !lcsh 'Administration of estates -- Fiction'
+- !lcsh 'Rich people -- Fiction'
+- !lcsh 'Ireland -- Fiction'
+- !lcsh 'Ireland -- Social life and customs -- Fiction'
+- !lcsh 'Landowners -- Fiction'
+- !lcsh 'Rural conditions -- Fiction'
+- !lcsh 'Landlord and tenant -- Fiction'
+- !lcsh 'Poor families -- Fiction'
+- GITenberg
+title: Castle Rackrent
+url: http://www.gutenberg.org/ebooks/1424
+wikipedia:
+- https://de.wikipedia.org/wiki/Meine_hochgeborene_Herrschaft
+- https://zh.wikipedia.org/wiki/%E6%8B%89%E5%85%8B%E4%BC%A6%E7%89%B9%E5%A0%A1
+- https://en.wikipedia.org/wiki/Castle_Rackrent
