@@ -1,5 +1,5 @@
 _repo: Castle-Rackrent_1424
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Ritchie, Anne Thackeray
@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '34609'
     url: http://www.gutenberg.org/2009/agents/34609
     wikipedia: http://en.wikipedia.org/wiki/Anne_Isabella_Thackeray_Ritchie
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Edgeworth, Maria
@@ -35,6 +38,8 @@ description: "Castle Rackrent, a short novel by Maria Edgeworth published in 180
   \ might have on English enthusiasm for the Act of Union 1800.\nThe novel is one\
   \ of the few of Edgeworth's novels which her father did not 'edit'.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1424#Castle-Rackrent
 gutenberg_issued: '2006-02-19'
 gutenberg_type: Text
 identifiers:
